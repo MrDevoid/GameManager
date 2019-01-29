@@ -1,0 +1,50 @@
+7
+Paco
+hola
+0 0 0
+0 0 0
+1462445135
+
+_X_X_X_
+alvaro
+alvaro
+0 1 0
+1 0 0
+1462444958
+
+_X_X_X_
+jose
+jose
+0 2 0
+2 0 0
+1462445120
+
+_X_X_X_
+luis
+luis
+0 1 0
+1 1 0
+1462378884
+
+_X_X_X_
+marta
+marta
+0 0 0
+0 0 0
+1462451166
+
+_X_X_X_
+pepito
+pepito
+0 -4 0
+0 2 0
+1462451214
+
+_X_X_X_
+susana
+susana
+0 0 0
+0 0 0
+1462378857
+
+_X_X_X_
